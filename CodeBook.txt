@@ -1,0 +1,87 @@
+CodeBook.txt
+Created 24 August 2014
+
+All Variables have a min value of -1 and a max value of 1. The value corresponds to the reading of
+device from which this variable was measured (i.e. accelerometer and gyroscope). The "f" designation
+indicated "frequency" and the "t" designation indicates "time".The variables are listed below, and
+follow the naming conventions detailed above. 
+
+tBodyAccMeanX: Mean of body acceleration on the X axis.
+tBodyAccMeanY: Mean of body acceleration on the y axis.
+tBodyAccMeanZ: Mean of body acceleration on the z axis.
+tGravityAccMeanX: Mean of gravity acceleration on the X axis.
+tGravityAccMeanY: Mean of gravity acceleration on the y axis.
+tGravityAccMeanZ: Mean of gravity acceleration on the z axis.
+tBodyAccJerkMeanX: Mean of body jerk acceleration on the X axis.
+tBodyAccJerkMeanY: Mean of body jerk acceleration on the y axis.
+tBodyAccJerkMeanZ: Mean of body jerk acceleration on the z axis.
+tBodyGyroMeanX: Mean of body velocity on the X axis.
+tBodyGyroMeanY: Mean of body velocity on the y axis.
+tBodyGyroMeanZ: Mean of body velocity on the z axis.
+tBodyGyroJerkMeanX: Mean of body jerk velocity on the X axis.
+tBodyGyroJerkMeanY: Mean of body jerk velocity on the y axis.
+tBodyGyroJerkMeanZ: Mean of body jerk velocity on the z axis.
+tBodyAccMagMean: Mean of body acceleration magnitude.
+tGravityAccMagMean: Mean of gravity acceleration magnitude.
+tBodyAccJerkMagMean: Mean of body jerk acceleration magnitude.
+tBodyGyroMagMean: Mean of body velocity magnitude.
+tBodyGyroJerkMagMean: Mean of body jerk velocity magnitude.
+fBodyAccMeanX: Mean of body acceleration on the X axis.
+fBodyAccMeanY: Mean of body acceleration on the y axis.
+fBodyAccMeanZ: Mean of body acceleration on the z axis.
+fBodyAccMeanFreqX: Mean of body acceleration frequency on the X axis.
+fBodyAccMeanFreqY: Mean of body acceleration frequency on the y axis.
+fBodyAccMeanFreqZ: Mean of body acceleration frequency on the z axis.
+fBodyAccJerkMeanX: Mean of body acceleration on the X axis.
+fBodyAccJerkMeanY: Mean of body acceleration on the y axis.
+fBodyAccJerkMeanZ: Mean of body acceleration on the z axis.
+fBodyAccJerkMeanFreqX: Mean of body jerk acceleration frequency on the X axis.
+fBodyAccJerkMeanFreqY: Mean of body jerk acceleration frequency on the y axis.
+fBodyAccJerkMeanFreqZ: Mean of body jerk acceleration frequency on the z axis.
+fBodyGyroMeanX: Mean of body velocity on the X axis.
+fBodyGyroMeanY: Mean of body velocity on the y axis.
+fBodyGyroMeanZ: Mean of body velocity on the z axis.
+fBodyGyroMeanFreqX: Mean of body velocity frequency on the X axis.
+fBodyGyroMeanFreqY: Mean of body velocity frequency on the y axis.
+fBodyGyroMeanFreqZ: Mean of body velocity frequency on the z axis.
+fBodyAccMagMean: Mean of body acceleration magnitude.
+fBodyAccMagMeanFreq: Mean of body acceleration frequency magnitude.
+fBodyAccJerkMagMean: Mean of body acceleration jerk magnitude.
+fBodyAccJerkMagMeanFreq: Mean of body acceleration jerk frequency.
+fBodyGyroMagMean: Mean of body velocity magnitude.
+fBodyGyroMagMeanFreq: Mean of body velocity frequency magnitude.
+fBodyGyroJerkMagMean: Mean of body jerk velocity magnitude.
+fBodyGyroJerkMagMeanFreq: Mean of body jerk velocity frequency magnitude.
+tBodyAccStdX: Standard deviation of body acceleration on the X axis.
+tBodyAccStdY: Standard deviation of body acceleration on the y axis.
+tBodyAccStdZ: Standard deviation of body acceleration on the z axis.
+tGravityAccStdX: Standard deviation of gravity acceleration on the X axis.
+tGravityAccStdY: Standard deviation of gravity acceleration on the y axis.
+tGravityAccStdZ: Standard deviation of gravity acceleration on the z axis.
+tBodyAccJerkStdX: Standard deviation of body jerk acceleration on the X axis.
+tBodyAccJerkStdY: Standard deviation of body jerk acceleration on the y axis.
+tBodyAccJerkStdZ: Standard deviation of body jerk acceleration on the z axis.
+tBodyGyroStdX: Standard deviation of body velocity on the X axis.
+tBodyGyroStdY: Standard deviation of body velocity on the y axis.
+tBodyGyroStdZ: Standard deviation of body velocity on the z axis.
+tBodyGyroJerkStdX: Standard deviation of body jerk velocity on the X axis.
+tBodyGyroJerkStdY: Standard deviation of body jerk velocity on the y axis.
+tBodyGyroJerkStdZ: Standard deviation of body jerk velocity on the z axis.
+tBodyAccMagStd: Standard deviation of body acceleration magnitude.
+tGravityAccMagStd: Standard deviation of gravity acceleration magnitude.
+tBodyAccJerkMagStd: Standard deviation of body jerk acceleration magnitude.
+tBodyGyroMagStd: Standard deviation of body velocity magnitude.
+tBodyGyroJerkMagStd: Standard deviation of body jerk velocity magnitude.
+fBodyAccStdX: Standard deviation of body acceleration on the X axis.
+fBodyAccStdY: Standard deviation of body acceleration on the y axis.
+fBodyAccStdZ: Standard deviation of body acceleration on the z axis.
+fBodyAccJerkStdX: Standard deviation of body jerk acceleration on the X axis.
+fBodyAccJerkStdY: Standard deviation of body jerk acceleration on the y axis.
+fBodyAccJerkStdZ: Standard deviation of body jerk acceleration on the z axis.
+fBodyGyroStdX: Standard deviation of body velocity on the X axis.
+fBodyGyroStdY: Standard deviation of body velocity on the y axis.
+fBodyGyroStdZ: Standard deviation of body velocity on the z axis.
+fBodyAccMagStd: Standard deviation of body acceleration magnitude.
+fBodyAccJerkMagStd: Standard deviation of body jerk acceleration magnitude.
+fBodyGyroMagStd: Standard deviation of body velocity magnitude.
+fBodyGyroJerkMagStd: Standard deviation of body jerk velocity magnitude.
